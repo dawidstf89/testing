@@ -1,0 +1,40 @@
+.app-header, #footer-user .info, #dashboard {
+    background: #043d1b !important;
+}
+#volume .slider {
+    background-color: #046d2e !important;
+    box-shadow: 0px -19px 0px 6px #046d2e), 0px 18px 0px 6px #046d2e !important;
+}
+#rcs-menu {
+background: #043d1b !important;
+}
+#footer, .app-right {
+    background: #043d1b !important;
+}
+#playlist-panel, #user-view, #waitlist .list .sortable-placeholder, #room-settings {
+    background: #043d1b !important;
+}
+#now-playing-bar, #history-button, #rs-skip-button, #playlist-menu, #user-menu, #room-settings-menu, .app-right .friends, .badge-box {
+    background: none !important;
+}
+#app-menu, #app-menu .list {
+    background: #046d2e !important;
+}
+#room .app-right {
+    background: #046d2e !important;
+}
+.header-panel-button.selected, #footer-user .buttons .button.store:hover, #footer-user .buttons .button:hover, #app-menu .list .logout:hover {
+    background: #046d2e !important;
+}
+#app-menu .list .rcsunload:hover, #app-menu .list .item:hover {
+    background: #046d2e!important;
+}
+.app-right .friends .list .row.clickable .room, #room-settings .general-settings a, #room-settings .general-settings a:visited {
+    color: #043d1b!important;
+}
+.icon-staff {
+    background-position: 35px 520px !important;
+}
+#user-lists .header .button.staff.selected {
+    border-bottom: 1px solid #046d2e !important;
+}
